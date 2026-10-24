@@ -1,0 +1,6 @@
+{
+  "name": "ReleasePulse",
+  "description": "A release-status dashboard for Product Managers that compares ClickUp ticket statuses with team standup notes to detect status drift and surface release risks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
